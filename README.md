@@ -16,7 +16,7 @@
 
 I am a **Data Engineer** and **Doctoral Researcher** specialising in the design of scalable data pipelines, advanced machine learning systems, and explainable AI for high-stakes domains. My research integrates data-driven methodologies across **healthcare**, **finance**, and **operations** — from clinical risk prediction to bias-aware model evaluation — delivering solutions that are both technically rigorous and interpretable to domain practitioners.
 
-- Doctoral research at **Eastern University**
+- Doctoral research at **Middle Georgia State University**
 - Industry experience spanning **AWS**, **Azure**, and **GCP** data platforms
 - Focus on **production-grade ML pipelines** with reproducibility, calibration, and explainability at the core
 
