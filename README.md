@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Fabeyo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenfabeyo)
-[![Email](https://img.shields.io/badge/Email-stephen.fabeyo%40eastern.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stephen.fabeyo@eastern.edu)
+[![Email](https://img.shields.io/badge/Email-stephen.fabeyo%40eastern.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:stephen.fabeyo@mga.edu)
 [![GitHub followers](https://img.shields.io/github/followers/stevefabz?label=Followers&style=flat-square&logo=github)](https://github.com/stevefabz)
 
 </div>
